@@ -12,7 +12,7 @@
 
 ## 2. Decisiones de publicación (las vemos juntos)
 
-- [ ] **Dónde publicar**: elegir el alojamiento (GitHub Pages, Netlify, hosting propio…).
+- [ ] **Publicar con GitHub Pages**: activar Pages en el repositorio `DouglasPolania/mi-landing` (Settings → Pages → rama `main`, carpeta `/ (root)`) y comprobar que la web carga en `https://douglaspolania.github.io/mi-landing/`. El repositorio ya es público, así que Pages es gratis.
 - [ ] **Dominio**: decidir la URL definitiva.
 - [ ] **Versión en inglés para Google**: crear una segunda página (`/en/index.html`) y enlazar ambas con `hreflang`, para que el inglés aparezca en los buscadores.
 - [ ] **Vista previa al compartir**: añadir las etiquetas Open Graph (`og:title`, `og:description`, `og:image`, `og:url`) cuando tenga la URL definitiva, para que el enlace se vea bien en WhatsApp y LinkedIn.
