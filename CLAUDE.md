@@ -15,15 +15,16 @@ Objetivo: conseguir clientes que me contacten por WhatsApp y otros medios que se
 ## Estilo
 
 - Minimalista, paleta azul y blanco.
-- Los colores están en las variables CSS de `:root`; usar siempre esas variables.
+- Los colores nuevos van en `:root`.
 - Comentarios en español, explicando el porqué.
 
 ## Reglas
 
-- La web es bilingüe (ES/EN): si cambias un texto en español, actualiza su traducción en el objeto `ingles` del script.
+- La web es bilingüe (ES/EN). El español está en el HTML con atributos data-i18n; el inglés, en el objeto ingles del script. Si cambias o añades un texto, actualiza los dos. La consola (F12) avisa de las traducciones que faltan.
+- Muy importante conservar las buenas prácticas, la semántica, los estilos accesibles y la accesibilidad en las etiquetas.
 - No cambiar el número de WhatsApp sin preguntarme.
 - Las tareas pendientes están en `CHECKLIST-PUBLICACION.md`.
-- Estas reglas pueden modificarse si el proyecto lo amerita, pero siempre debes preguntar antes de saltarte (eludir) una regla.
+- Estas reglas pueden modificarse si el proyecto lo amerita, pero siempre debes preguntar antes de saltarte una regla.
 
 ## Cómo trabajo
 
