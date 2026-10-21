@@ -23,7 +23,7 @@ Objetivo: conseguir clientes que me contacten por WhatsApp y otros medios que se
 - La web es bilingüe (ES/EN). El español está en el HTML con atributos data-i18n; el inglés, en el objeto ingles del script. Si cambias o añades un texto, actualiza los dos. La consola (F12) avisa de las traducciones que faltan.
 - Muy importante conservar las buenas prácticas, los estilos accesibles y la accesibilidad en las etiquetas.
 - El HTML debe ser semántico: nada de `<div>` si existe una etiqueta con significado.
-- - Las imágenes con contenido llevan `alt` descriptivo; las decorativas, `alt=""`.
+- Las imágenes con contenido llevan `alt` descriptivo; las decorativas, `alt=""`.
 - No cambiar el número de WhatsApp sin preguntarme.
 - Las tareas pendientes están en `CHECKLIST-PUBLICACION.md`.
 - Antes de hacer cambios grandes (varios archivos, una sección entera o la estructura), propón el plan y espera aprobación.

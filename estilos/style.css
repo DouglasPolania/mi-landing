@@ -184,7 +184,8 @@ h3 {
 /* ===========================
  3. CABECERA Y NAVEGACIÓN
  =========================== */
-header {
+/* Solo la cabecera principal; los <header> de cada sección no deben ser sticky */
+body > header {
   position: sticky;
   top: 0;
   z-index: 50;
