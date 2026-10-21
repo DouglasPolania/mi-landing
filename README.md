@@ -17,6 +17,7 @@ Landing page personal donde presento mis servicios como desarrollador Full Stack
 - **Estructurar una web con HTML semántico**: usar `header`, `nav`, `section` y `footer` según su función, y no solo `div`.
 - **Accesibilidad**: navegación con teclado, foco visible (`:focus-visible`), atributos ARIA como `aria-expanded` en el menú móvil, cierre del menú con Escape y respeto a `prefers-reduced-motion`.
 - **Organizar el CSS con variables**: definir la paleta de colores en un solo sitio para cambiarla sin tocar el resto del código.
+- **Separar contenido y diseño**: llevar el CSS a un archivo propio (`estilos/style.css`) para mantener el HTML más limpio y fácil de leer.
 - **Diseño responsive**: adaptar la página al móvil con media queries y un menú desplegable.
 - **Una web bilingüe sin librerías**: marcar los textos con atributos `data-i18n`, guardar las traducciones en un objeto de JavaScript, recordar el idioma elegido con `localStorage` y detectar el idioma del navegador.
 - **Enlaces de WhatsApp**: abrir el chat con un mensaje ya escrito en el idioma de la página, usando `encodeURIComponent`.

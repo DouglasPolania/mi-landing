@@ -9,8 +9,8 @@ Objetivo: conseguir clientes que me contacten por WhatsApp y otros medios que se
 
 - HTML5, CSS3 y JavaScript puros, sin frameworks.
 - No usar librerías externas ni CDN.
-- Todo está en `index.html`: el CSS en `<style>` y el JavaScript en `<script>`.
-- `estilos/style.css` está vacío; no usarlo salvo que yo lo pida. Si crees que conviene usarlo, pregúntame antes.
+- El HTML y el JavaScript (en `<script>`) están en `index.html`.
+- Todo el CSS está en `estilos/style.css`; no usar `<style>` ni atributos `style=""` en el HTML.
 
 ## Estilo
 
