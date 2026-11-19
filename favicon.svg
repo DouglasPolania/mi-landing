@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Icono de la pestaña: iniciales "DP" en blanco sobre el azul de los botones (variable azul-700 de style.css).
+       Ojo: en los comentarios de un SVG no puede haber dos guiones seguidos;
+       si los hay, el archivo queda roto y el navegador no muestra el icono.
+       Se usa SVG porque es texto plano, no necesita herramientas externas y se ve nítido a cualquier tamaño.
+       Los colores van escritos aquí porque un SVG externo no puede leer las variables de style.css. -->
+  <rect width="64" height="64" rx="14" fill="#1849a9"/>
+  <text x="32" y="42" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle">DP</text>
+</svg>

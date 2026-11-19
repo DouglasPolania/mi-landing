@@ -18,6 +18,7 @@
 - [ ] **Metaetiquetas SEO**: completar las metaetiquetas de HTML para tener el SEO al 100%.
 - [ ] **Vista previa al compartir**: añadir las etiquetas Open Graph (`og:title`, `og:description`, `og:image`, `og:url`) cuando tenga la URL definitiva, para que el enlace se vea bien en WhatsApp y LinkedIn.
 - [ ] **Imagen para compartir**: preparar la imagen de `og:image` (recomendado 1200 × 630 px).
+- [ ] **Iconos de respaldo**: ya existe `favicon.svg`, pero algunos navegadores antiguos no leen SVG y el iPhone usa su propio icono al guardar la web en la pantalla de inicio. Añadir un `favicon.ico` (32 × 32 px) y un `apple-touch-icon.png` (180 × 180 px), con su `<link>` en el `<head>`.
 
 ## 3. Temas pendientes de explicar
 
@@ -30,4 +31,5 @@
 - [ ] Probar el cambio de idioma ES / EN y que el mensaje de WhatsApp cambia de idioma.
 - [ ] Probar el menú móvil en un teléfono real.
 - [ ] Compartir el enlace por WhatsApp y LinkedIn y revisar cómo se ve la vista previa.
+- [ ] Comprobar que el icono "DP" aparece en la pestaña del navegador y al guardar la web en la pantalla de inicio del móvil.
 - [ ] Recorrer la página solo con el teclado (Tab, Enter, Escape) y comprobar que todo se alcanza y se ve el foco.
