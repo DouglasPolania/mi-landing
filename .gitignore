@@ -1,0 +1,3 @@
+# Configuración local de VS Code: depende del editor y las extensiones
+# de cada persona (p. ej. la de Python la crea sola), no del proyecto.
+.vscode/
